@@ -1,0 +1,33 @@
+body {
+	text-align: center;
+	background-color: ;
+	font-family: Georgia, serif;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+p{
+	text-align: left;
+}
+
+div{
+	background-color: #1e88e5;
+
+}
+
+
+.card {
+	text-align: left;
+}
+
+.big {	
+	font-size: 15px;
+}
+
+h4{
+	color: black;
+	text-align: right;
+
+}

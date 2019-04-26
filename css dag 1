@@ -1,0 +1,22 @@
+body{
+		font-family: Georgia, serif;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+p{
+	text-align: center;
+}
+
+div{
+	background-color: green;
+}
+
+h4{
+	text-align: right;
+
+	font-size: 2rem;	
+}
+
